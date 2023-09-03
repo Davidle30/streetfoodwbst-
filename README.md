@@ -17,7 +17,7 @@ For you to run this project, you will need atleast the following;
 - 2GB free space
 
 ## live link
-https://puritylamet.github.io/street-food-website-IP3/
+https://davidle30.github.io/streetfoodwbst-/ 
 ## Author
 purity lamet
 
