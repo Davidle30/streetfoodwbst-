@@ -19,7 +19,7 @@ For you to run this project, you will need atleast the following;
 ## live link
 https://davidle30.github.io/streetfoodwbst-/ 
 ## Author
-purity lamet
+David Leteipa
 
 ## License
 This application has been distributed under the MIT license.
